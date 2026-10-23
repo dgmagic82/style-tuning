@@ -1,0 +1,17 @@
+{
+  "add_prefix_space": false,
+  "backend": "tokenizers",
+  "bos_token": "<s>",
+  "clean_up_tokenization_spaces": true,
+  "eos_token": "</s>",
+  "errors": "replace",
+  "is_local": false,
+  "local_files_only": true,
+  "mask_token": "<mask>",
+  "model_max_length": 2048,
+  "pad_token": "</s>",
+  "padding_side": "left",
+  "tokenizer_class": "GPT2Tokenizer",
+  "truncation_side": "left",
+  "unk_token": "<unk>"
+}

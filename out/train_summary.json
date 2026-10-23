@@ -1,0 +1,13 @@
+{
+  "model": "ai-forever/rugpt3small_based_on_gpt2",
+  "train_pairs": 80,
+  "test_pairs": 10,
+  "epochs": 8,
+  "steps": 80,
+  "trainable_params": 2359296,
+  "total_params": 127590912,
+  "eval_loss_before": 4.064,
+  "eval_loss_after": 2.022,
+  "train_minutes": 2.6,
+  "adapter_mb": 9.4
+}
